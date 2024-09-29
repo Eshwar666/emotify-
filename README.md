@@ -3,7 +3,7 @@
 
 Recommending music based on your facial expressions using the FER 2013 dataset and Spotify API.
 
-This project is done by TEAM LXXXV for our Postman x API challenge hosted by Marwadi University 2024 :
+This project is done by TEAM LXXXV for  Postman x API challenge hosted by Marwadi University 2024 :
 
 1. SHAGUN TYAGI
 2. ESHWAR ANAND BADUGU
