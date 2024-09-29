@@ -30,6 +30,7 @@ The emotion recognition model is trained on the FER 2013 dataset and can detect 
 - Spotipy
 - Postman (used for testing the API)
 - Flask
+- Opencv
 
 ## Dataset
 The dataset used for this project is the FER2013 dataset. Models trained on this dataset can classify 7 emotions. The dataset can be found [here](https://www.kaggle.com/msambare/fer2013).
@@ -59,4 +60,4 @@ The entire project works perfectly fine. Live detection provides good frame rate
 
 ---
 
-Feel free to adjust any part further if needed!
+
